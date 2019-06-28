@@ -8,7 +8,7 @@ function trocaElemento() {
 }
 
 function avancarPagina() {
-    if (pagina < 20) {
+    if (pagina < 14) {
         pagina++;
     }
     trocaElemento();
