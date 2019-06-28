@@ -2,7 +2,7 @@ var pagina = 1;
 document.getElementById("numero_pagina").textContent = "Página " + pagina;
 
 function trocaElemento() {
-    var path = "resources/elemento" + pagina + ".png";
+    var path = "assets/elemento" + pagina + ".png";
     document.getElementById("imagem").src = path;
     document.getElementById("numero_pagina").textContent = "Página " + pagina;
 }
