@@ -50,6 +50,7 @@ h1 {
 }
 
 .creditos{
+    text-align: right
     font-size: 10px;
     font-family: Arial Black, Arial Bold, sans-serif;
 }
