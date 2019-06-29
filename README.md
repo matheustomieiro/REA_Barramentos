@@ -1,4 +1,7 @@
 # REA_Barramentos
+
+Responsáveis: Mateus Prado Santos e Matheus Tomieiro de Oliveira
+
 Recurso Educacional aberto, proposto em HTML, com várias imagens e informações sobre Barramentos.
 
 1.0) Introdução
